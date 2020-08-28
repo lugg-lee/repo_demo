@@ -1,2 +1,3 @@
-include ':app'
+include ':app_module'
+include ':lib_module'
 rootProject.name = "repo-demo"
